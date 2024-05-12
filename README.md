@@ -1,2 +1,8 @@
 # README
-For our first semester project, we were supposed to implement everything we had learnt in our semester, which included conditions, loops, functions, and recursion. The project I chose was the Snake Xenzia game from the old button-phones. The interface and functionality has been constructed through pygame library.
+This is a skeleton version of the Snake-Xenzia game from the old button-phones. The interface and functionality have been constructed through pygame library. Some functionality has been achieved through recursion. Further contributions can be added for the audio and graphics.
+
+HOW TO PLAY
+. Download snake.py
+. Open the file on an IDE (VS code, Anaconda, Pycharm etc)
+. Run the file
+. Enjoy!
