@@ -3,6 +3,6 @@ This is a skeleton version of the Snake-Xenzia game from the old button-phones. 
 
   HOW TO PLAY\
 . Clone the repository\
-. Open the snake.py on an IDE (VS code, Anaconda, Pycharm etc)\
+. Open the Snake.py on an IDE (VS code, Anaconda, Pycharm etc)\
 . Run the file\
 . Enjoy!
